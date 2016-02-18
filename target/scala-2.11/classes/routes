@@ -1,2 +1,0 @@
-GET /test     controllers.Test.test
-GET /test2    controllers.Test.test2
