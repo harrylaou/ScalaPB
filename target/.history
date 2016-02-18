@@ -1,0 +1,15 @@
+protobuf:scalaSource
+protobuf:protobufGenerate
+protobuf:protobufScalaGenerate
+protobuf:protobuf-generate
+compile
+clean
+compile
+clean
+compile
+clean
+compile
+clean
+compile
+clean
+compile
